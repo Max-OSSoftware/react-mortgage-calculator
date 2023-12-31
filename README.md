@@ -1,6 +1,7 @@
 ## React Mortgage Calculator
 
-created this mortgage calculator in React.js 18 Material UI 
+created this mortgage calculator in React.js 18 and Material UI
+
 
 
 
