@@ -11,7 +11,7 @@ const Navbar = () => {
           <Typography variant="h5">Mortgage Calculator</Typography>
           
         </Toolbar>
-        <Typography variant="p"> zapboy216</Typography>
+        <Typography variant="p"> @zapboy216</Typography>
       </Container>
     </AppBar>
   );
