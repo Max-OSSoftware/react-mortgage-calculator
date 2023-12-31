@@ -11,10 +11,10 @@ const Navbar = () => {
         <Toolbar>
           <Typography variant="h5">Mortgage Calculator</Typography>
         </Toolbar>
-        <Typography variant="p">
-          
+        <Typography variant="a">
+          <Link href="https://twitter.com/zapboy216" target="_blank" rel="noopener" text-color="white">
             @zapboy216
-          
+          </Link>
         </Typography>
       </Container>
     </AppBar>
