@@ -3,6 +3,8 @@ import Slider from "@mui/material/Slider";
 import { Typography } from "@mui/material";
 import { Stack } from "@mui/system";
 
+
+
 const SliderComponent = ({
   defaultValue,
   min,
@@ -44,5 +46,8 @@ const SliderComponent = ({
     </Stack>
   );
 };
+
+
+
 
 export default SliderComponent;

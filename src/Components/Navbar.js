@@ -9,13 +9,13 @@ const Navbar = () => {
       <Container maxWidth="xl">
         <Toolbar>
           <Typography variant="h5">Mortgage Calculator</Typography>
-          <p></p>
-          <Typography variant="p"> @zapboy216</Typography>
         </Toolbar>
-       
+        <Typography variant="p"> @zapboy216</Typography>
       </Container>
     </AppBar>
   );
 };
+
+
 
 export default Navbar;
